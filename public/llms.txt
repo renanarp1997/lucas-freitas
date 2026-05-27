@@ -1,0 +1,37 @@
+# Lucas Freitas Agência
+
+Site oficial da Lucas Freitas Agência — operação institucional de influência, posicionamento e autoridade para lideranças políticas, personalidades públicas, artistas, atletas e marcas. Atuação no Brasil e em Portugal.
+
+## Sobre a agência
+
+A Lucas Freitas Agência é dirigida por Lucas Freitas, empresário do ramo artístico com forte atuação política e institucional. A trajetória de operação foi conduzida ao lado de marcas como Ipatinga, Intelectus e MD Digital, com participação em centenas de campanhas eleitorais vencedoras (prefeitos, deputados e lideranças nacionais) e na gestão de imagem de mais de mil nomes públicos — influenciadores, cantores, atores e atletas profissionais. Em Portugal, atua junto a diretorias de clubes, lideranças e projetos institucionais.
+
+A operação é reservada e por aplicação. Cada projeto recebe avaliação preliminar de posicionamento, influência e autoridade antes do início do atendimento.
+
+## Frentes de atuação
+
+- Campanhas eleitorais e mandatos (prefeitos, deputados, lideranças)
+- Lideranças e figuras públicas (reputação, presença, discurso)
+- Artistas, atletas e cantores (posicionamento de imagem e carreira)
+- Diretoria de clubes em Portugal (institucional internacional)
+- Grandes empresas e marcas (posicionamento corporativo)
+
+## Segmentos atendidos
+
+Lideranças públicas · Campanhas eleitorais · Artistas · Atletas · Cantores · Atores · Diretoria de clubes · Grandes empresas · Figuras públicas.
+
+## Rotas principais
+
+- /: Página inicial com apresentação institucional, frentes de atuação, autoridade (pilares, números e segmentos) e canais de contato.
+- /sobre-nos: Missão, história, método de trabalho e contato institucional.
+- /termos-de-uso: Regras de acesso, navegação e uso do site.
+- /termos-de-servico: Condições gerais para serviços e relações comerciais.
+- /politica-de-privacidade: Tratamento de dados pessoais conforme a LGPD.
+- /politica-de-cookies: Uso de cookies, consentimento e opções de gerenciamento.
+
+## Contato
+
+E-mail: contato@lucasfreitas.ag
+Instagram: @lucasfreitas.ag
+Atendimento: somente por agendamento, agenda limitada por curadoria.
+Atuação: Brasil e Portugal.

@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #07060a;
+  --color-ink-2: #0c0a10;
+  --color-ink-3: #14111a;
+  --color-line: rgba(201, 162, 76, 0.22);
+  --color-gold: #c9a24c;
+  --color-gold-2: #e6c878;
+  --color-gold-soft: #b8924a;
+  --color-cream: #f5efe1;
+  --color-mute: #b8b1a6;
+
+  --font-serif: var(--font-playfair), "Playfair Display", Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-script: var(--font-pinyon), "Pinyon Script", cursive;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-ink);
+    color: var(--color-cream);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01", "cv11";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: var(--color-gold);
+    color: #0a0a0a;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-serif);
+    letter-spacing: -0.01em;
+  }
+}
+
+.gold-gradient {
+  background: linear-gradient(180deg, #efd592 0%, #c9a24c 45%, #8f6c2c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hairline {
+  background-image: linear-gradient(90deg, transparent, rgba(201, 162, 76, 0.45), transparent);
+}
+
+.marble-divider {
+  background:
+    radial-gradient(120% 100% at 50% 0%, rgba(201, 162, 76, 0.08), transparent 60%),
+    linear-gradient(180deg, #0a0810, #0c0a10);
+  position: relative;
+}
+.marble-divider::before,
+.marble-divider::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201, 162, 76, 0.35), transparent);
+}
+.marble-divider::before { top: 0; }
+.marble-divider::after { bottom: 0; }
+
+.vertical-rail {
+  writing-mode: vertical-rl;
+  letter-spacing: 0.35em;
+}
